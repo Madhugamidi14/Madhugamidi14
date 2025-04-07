@@ -17,10 +17,7 @@
 <br>
 
 <h2 align="left"> Currently Working On : </h2>
-
-## 🔗 Project Repository
-
-Click here to view the repository:  
+ 
 [DOHMH NYC Restaurant Inspection Project](https://github.com/Madhugamidi14/DOHMH_NYC_Restaurant_Inspection)
 
 
