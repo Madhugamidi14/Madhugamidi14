@@ -17,7 +17,9 @@
 <br>
 
 <h2 align="left"> Currently Working On : </h2>
-[DOHMH NYC Restaurant Inspection Project](https://github.com/Madhugamidi14/DOHMH_NYC_Restaurant_Inspection)
+<a href="https://https://github.com/Madhugamidi14/DOHMH_NYC_Restaurant_Inspection target="_blank"> </a>
+
+
 <p align="center">
   <a href="https://https://www.linkedin.com/in/madhu-gamidi-31976918b/ target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Sree Madhuchandra Gamidi-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
