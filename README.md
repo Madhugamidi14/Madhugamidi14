@@ -10,7 +10,7 @@
 - 🔧 Engineering Clean, Scalable, and Insight-Ready Data Pipelines.
 - 🛠️ Designing production-grade ETL/ELT pipelines.
 - 🗃️ Working with large-scale datasets from diverse sources (CSV, JSON, Parquet, APIs, Databases)
-- 🧱 Building data infrastructure using Python, SQL, and cloud-native tools
+- 🧱 Building data infrastructure using Python, Pyspark, Scala, SQL and cloud-native tools
 - 📈 Enabling analytics and machine learning through clean, reliable data flows
 - 🧪 Writing testable, maintainable code with logging and exception handling best practices</h3>
 
