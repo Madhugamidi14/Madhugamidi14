@@ -29,6 +29,15 @@
   </a>
 </p>
 
+<br>
+
+<h2 align="left"> Interested roles to work : </h2>
+
+- Data Engineer
+- ETL Developer
+- Data Analyst
+- Business Analyst
+
 <h2 align="left"> Currently Working On : </h2>
  
 [InsuraFlow Insurance Project](https://github.com/Madhugamidi14/InsuraFlow)
