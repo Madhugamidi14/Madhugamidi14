@@ -33,6 +33,7 @@
 
 <h2 align="left"> Interested roles to work : </h2>
 
+- Software Development Engineer
 - Data Engineer
 - ETL Developer
 - Data Analyst
